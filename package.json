@@ -2,6 +2,7 @@
   "name": "00-practice-app",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://myusername.github.io/my-app",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
     "@testing-library/react": "^11.1.0",
@@ -38,5 +39,7 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+    
   }
+
 }
